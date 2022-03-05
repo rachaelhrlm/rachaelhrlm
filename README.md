@@ -6,7 +6,7 @@
 
 ## 🐈 About Me
 Hey there! <br/>
-I'm Associate Software Developer at Sky. <br/>
+I'm a Software Developer at Sky. <br/>
 I started my coding journey through Sky's Get Into Tech program of 2020. <br/>
 I try to sneak in a few cats to my commits.
 
